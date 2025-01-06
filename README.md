@@ -12,3 +12,9 @@ Restart the current session.</li>
 <li>Responsive Design: Fully responsive layout suitable for desktop and mobile devices.</li>
 </ul>
 
+##Technologies Used
+<ul>
+<li>HTML: Structure and layout of the application.</li>
+<li>CSS: Styling and responsiveness.</li>
+<li>JavaScript: Logic and interactivity.</li>
+</ul>
